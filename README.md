@@ -1,5 +1,6 @@
-<img src="https://user-images.githubusercontent.com/45322112/181121594-e1458a2f-5bc2-4fae-a7e5-d3ca38d34de1.png"/>
+<img src="https://user-images.githubusercontent.com/45322112/181121880-a4262756-da6b-43b4-92b0-e7420ef48d65.png"/>
 ![banner](https://user-images.githubusercontent.com/45322112/181121594-e1458a2f-5bc2-4fae-a7e5-d3ca38d34de1.png)
+![newbanner-02](https://user-images.githubusercontent.com/45322112/181121880-a4262756-da6b-43b4-92b0-e7420ef48d65.png)
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.petartopic.dev/" target="_blank" rel="noreferrer">Petar</a> 👋
