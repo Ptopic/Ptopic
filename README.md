@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/45322112/181121880-a4262756-da6b-43b4-92b0-e7420ef48d65.png"/>
+<img src="https://user-images.githubusercontent.com/45322112/181122058-27e81fc0-beaa-4a41-90c0-96481c9ef974.png"/>
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.petartopic.dev/" target="_blank" rel="noreferrer">Petar</a> 👋
