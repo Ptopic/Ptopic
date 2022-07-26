@@ -46,6 +46,6 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 
 ## 📈 Stats 
 
-![Ptopic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ptopic&theme=aura_dark&show_icons=true&hide_border)
+![Ptopic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ptopic&hide_border&theme=aura_dark&show_icons=true)
 
-[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Ptopic&layout=compact&theme=aura_dark)](https://github.com/Ptopic)
+[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Ptopic&layout=compact&hide_border&theme=aura_dark)](https://github.com/Ptopic)
