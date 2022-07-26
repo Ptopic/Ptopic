@@ -1,6 +1,4 @@
-<p align="center">
-Add Banner
-</p>
+<img src=”" alt=”my banner”>
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.petartopic.dev/" target="_blank" rel="noreferrer">Petar</a> 👋
