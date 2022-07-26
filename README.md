@@ -49,6 +49,8 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 
 ## 📜 Certifications 
 
+![Snake animation](https://github.com/Ptopic/Ptopic/blob/output/github-contribution-grid-snake.svg)
+
 ## 📈 Stats 
 
 ![Ptopic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ptopic&border_color=red&theme=aura_dark&show_icons=true)
