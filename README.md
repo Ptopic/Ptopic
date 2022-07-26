@@ -11,8 +11,8 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 </h2> 
 
 ## 🤝 Socials 
-<a href=""><img align="left" src="https://user-images.githubusercontent.com/45322112/181111378-3feed16f-018c-4a78-9e1a-0085dc97c251.png" width="21px"></img></a>
-
+<a href=""><img align="left" src="https://user-images.githubusercontent.com/45322112/181111378-3feed16f-018c-4a78-9e1a-0085dc97c251.png" width="24px"></img></a>
+<a href=""><img align="left" src="" width="21px"></img></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
