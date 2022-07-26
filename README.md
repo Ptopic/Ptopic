@@ -1,4 +1,5 @@
-<img src=”" alt=”my banner”>
+<img src="https://user-images.githubusercontent.com/45322112/181121594-e1458a2f-5bc2-4fae-a7e5-d3ca38d34de1.png"/>
+![banner](https://user-images.githubusercontent.com/45322112/181121594-e1458a2f-5bc2-4fae-a7e5-d3ca38d34de1.png)
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.petartopic.dev/" target="_blank" rel="noreferrer">Petar</a> 👋
