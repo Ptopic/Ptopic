@@ -11,7 +11,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 </h2> 
 
 ## 🤝 Socials 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+![linkedin](https://user-images.githubusercontent.com/45322112/181110591-798642a5-8e1b-4096-a5ef-2de1d9d37cba.png)
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
