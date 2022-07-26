@@ -15,7 +15,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 💼 Technical Skills
+## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -38,6 +38,9 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+## My work
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptopic&repo=Cjenik-app&theme=aurora_dark)]
 
 ## 📜 Certifications 
 
