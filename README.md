@@ -40,7 +40,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## My work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptopic&repo=Cjenik-app&theme=dark)](https://github.com/Ptopic/Cjenik-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptopic&repo=Cjenik-app&theme=aura_dark)](https://github.com/Ptopic/Cjenik-app)
 
 ## 📜 Certifications 
 
