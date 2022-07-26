@@ -19,6 +19,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<p>&nbsp;<p/>
 
 ## 💼 Skills
 
@@ -43,16 +44,24 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
-## My work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptopic&repo=Cjenik-app&theme=aura_dark)](https://github.com/Ptopic/Cjenik-app)
-<img align="center" src="https://github.com/Ptopic/Ptopic/blob/output/github-contribution-grid-snake.svg"></img>
-![Snake animation](https://github.com/Ptopic/Ptopic/blob/output/github-contribution-grid-snake.svg)
+<p>&nbsp;<p/>
 
 ## 📜 Certifications 
 
+<p>&nbsp;<p/>
+
+## My work
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptopic&repo=Cjenik-app&theme=aura_dark)](https://github.com/Ptopic/Cjenik-app)
+<div align="center"><img src="https://github.com/Ptopic/Ptopic/blob/output/github-contribution-grid-snake.svg"></img></div>
+<p>&nbsp;<p/>
+
 ## 📈 Stats 
 
-![Ptopic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ptopic&border_color=red&theme=aura_dark&show_icons=true)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ptopic&border_color=red&theme=aura_dark&show_icons=true"/>
+</div>
 
-[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Ptopic&layout=compact&border_color=red&theme=aura_dark)](https://github.com/Ptopic)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptopic&layout=compact&border_color=red&theme=aura_dark"/>
+</div>
+
