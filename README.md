@@ -48,7 +48,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 <p>&nbsp;<p/>
 
 ## My work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptopic&repo=Cjenik-app&theme=aura_dark)](https://github.com/Ptopic/Cjenik-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptopic&repo=Cjenik-app&theme=aura_dark)](https://github.com/Ptopic/Cijenik-app)
 <div align="center"><img src="https://github.com/Ptopic/Ptopic/blob/output/github-contribution-grid-snake.svg"></img></div>
 <p>&nbsp;<p/>
 
