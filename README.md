@@ -44,6 +44,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 <p>&nbsp;<p/>
 
 ## 📜 Certifications 
+<h3> Edit ICT Županije - Frontend course (HTML, CSS and Javascript) <h3>
 
 <p>&nbsp;<p/>
 
