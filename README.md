@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 </h2> 
 
 ## 🤝 Socials 
-<a href="linkedin.com/in/petar-topić-4a551a234"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/linkedin.svg" width="32px"></img></a>
+<a href="https://www.linkedin.com/in/petar-topi%C4%87-4a551a234/"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/linkedin.svg" width="32px"></img></a>
 <a href="https://www.instagram.com/topic_02/"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/instagram.svg" width="32px"></img></a>
 <a href=""><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/twitter.svg" width="32px"></img></a>
 
