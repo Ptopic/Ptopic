@@ -5,13 +5,16 @@ Hi there, I'm <a href="https://www.petartopic.dev/" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻 and Designer 🎨!
+I'm a Front End Developer 💻 and Designer 🎨!
 </h2> 
+
+- 🌍  I'm based in Solin, Croatia
+- 🖥️  See my portfolio at <a href="https://www.petartopic.dev/" target="_blank" rel="noreferrer">Portfolio</a>
+- 🧠  Currently learning React Native
 
 ## 🤝 Socials 
 <a href="https://www.linkedin.com/in/petar-topi%C4%87-4a551a234/"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/linkedin.svg" width="32px"></img></a>
 <a href="https://www.instagram.com/topic_02/"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/instagram.svg" width="32px"></img></a>
-<a href=""><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/twitter.svg" width="32px"></img></a>
 
 </br>
 </br>
