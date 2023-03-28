@@ -49,10 +49,3 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 
 <p>&nbsp;<p/>
 
-## 📈 Stats 
-
-<p>&nbsp;<p/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptopic&layout=compact&border_color=red&theme=aura_dark"/>
-</div>
-
