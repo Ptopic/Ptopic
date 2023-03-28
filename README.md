@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://www.petartopic.dev/" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center">
-I'm a Front End Developer 💻 and Designer 🎨!
+I'm a Full Stack Developer 💻 and Designer 🎨!
 </h2> 
 
 - 🌍  I'm based in Solin, Croatia
