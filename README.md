@@ -12,16 +12,6 @@ I'm a Front End Developer 💻 and Designer 🎨!
 - 🖥️  See my portfolio at <a href="https://www.petartopic.dev/" target="_blank" rel="noreferrer">Portfolio</a>
 - 🧠  Currently learning React Native
 
-## 🤝 Socials 
-<a href="https://www.linkedin.com/in/petar-topi%C4%87-4a551a234/"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/linkedin.svg" width="32px"></img></a>
-<a href="https://www.instagram.com/topic_02/"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/instagram.svg" width="32px"></img></a>
-
-</br>
-</br>
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-<p>&nbsp;<p/>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -45,6 +35,18 @@ I'm a Front End Developer 💻 and Designer 🎨!
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 <p>&nbsp;<p/>
+
+## 🤝 Socials 
+<a href="https://www.linkedin.com/in/petar-topi%C4%87-4a551a234/"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/linkedin.svg" width="32px"></img></a>
+<a href="https://www.instagram.com/topic_02/"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/instagram.svg" width="32px"></img></a>
+
+</br>
+</br>
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<p>&nbsp;<p/>
+
+
 
 ## 📜 Certifications 
 <h3> Studying computer science at university (Currently at second year)<h3>
