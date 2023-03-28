@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/45322112/181122058-27e81fc0-beaa-4a41-90c0-96481c9ef974.png"/>
+[comment]: <> (<img src="https://user-images.githubusercontent.com/45322112/181122058-27e81fc0-beaa-4a41-90c0-96481c9ef974.png"/>)
+![bgForGit](https://user-images.githubusercontent.com/45322112/228346813-6f895082-e028-4c86-b988-9159f2c4e889.png)
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.petartopic.dev/" target="_blank" rel="noreferrer">Petar</a> 👋
