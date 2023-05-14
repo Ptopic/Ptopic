@@ -24,7 +24,7 @@ I'm a Full Stack Developer 💻 and Designer 🎨!
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<p>&nbsp;<p/>
+<br>
 
 ## 🤝 Socials 
 <a href="https://www.linkedin.com/in/petar-topi%C4%87-4a551a234/"><img align="left" src="https://raw.githubusercontent.com/Ptopic/Ptopic/main/images/linkedin.svg" width="32px"></img></a>
@@ -34,7 +34,7 @@ I'm a Full Stack Developer 💻 and Designer 🎨!
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-<p>&nbsp;<p/>
+<br>
 
 
 
@@ -42,5 +42,5 @@ I'm a Full Stack Developer 💻 and Designer 🎨!
 <h3> Studying computer science at university (Currently at second year)<h3>
 <h3> Edit ICT Županija - Frontend course (HTML, CSS and Javascript) <h3>
 
-<p>&nbsp;<p/>
+<br>
 
