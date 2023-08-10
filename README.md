@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://www.petartopic.dev/" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center">
-I'm a Back End Developer 💻!
+I'm a Full Stack Developer 💻!
 </h2> 
 
 - 🌍  I'm based in Solin, Croatia
