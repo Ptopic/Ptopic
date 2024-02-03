@@ -11,7 +11,7 @@ I'm a Full Stack Developer 💻!
 
 - 🌍  I'm based in Solin, Croatia
 - 🖥️  See my portfolio at <a href="https://www.petartopic.dev/" target="_blank" rel="noreferrer">Portfolio</a>
-- 🧠  Currently learning React Native
+- 🧠  Currently learning Next.js
 
 ## 💼 Skills
 
