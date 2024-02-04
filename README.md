@@ -15,14 +15,24 @@ I'm a Full Stack Developer 💻!
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+
+<br>
+<br>
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb,solidity" />
+</a>
+
+<br>
+<br>
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</a>
 
 <br>
 
