@@ -10,7 +10,7 @@ I'm a Full Stack Developer 💻!
 </h2> 
 
 - 🌍  I'm based in Solin, Croatia
-- 🖥️  See my portfolio at <a href="https://www.petartopic.com/" target="_blank" rel="noreferrer">Portfolio</a>
+- 🖥️  See my portfolio at <a href="https://petartopic.com/" target="_blank" rel="noreferrer">Portfolio</a>
 - 🧠  Currently learning <b>Unity VR Development</b>
 
 ## 💼 Skills
